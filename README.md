@@ -85,8 +85,8 @@ README.md
 
 ## :arrow_down: Instalação
 
-- `git clone https://github.com/...`;
-- `cd ...`;
+- `git clone https://github.com/Rogerluiz0/proffy.git`;
+- `cd proffy`;
 - `npm install | yarn install`;
 - `npm run dev | yarn dev`.
 
