@@ -10,12 +10,12 @@
 
 <div align="center">
   <h2 align="center">Desktop</h2>
-  <img src=".github/desktop.png" alt="Exemplo da interface no desktop" style="width: 100%;">  
+  <img src=".github/desktop.svg" alt="Exemplo da interface no desktop" style="width: 100%;">  
 </div>
 
 <div align="center">
   <h2 align="center">Mobile</h2>
-  <img src=".github/mobile.png" alt="Exemplo da interface no mobile" height="600px;">  
+  <img src=".github/mobile.svg" alt="Exemplo da interface no mobile" height="600px;">  
 </div>
 
 ## :gear: Requisítos
@@ -35,6 +35,10 @@
 ## :computer: Projeto
 
 Aplicação web desenvolvida na segunda edição da next level week.
+
+## :bookmark: Layout
+
+Você pode visualizar a interface do projeto clicando [aqui](https://proffy-roger.herokuapp.com/)
 
 ## :scroll: Banco de dados
 
