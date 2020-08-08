@@ -36,10 +36,6 @@
 
 Aplicação web desenvolvida na segunda edição da next level week.
 
-## :bookmark: Layout
-
-Você pode visualizar a interface do projeto clicando [aqui](https://proffy-roger.herokuapp.com/)
-
 ## :scroll: Banco de dados
 
 Caso você queira resetar o banco de dados, basta ir na pasta src/database e excluir o arquivo database.sqlite,
