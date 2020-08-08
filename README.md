@@ -6,7 +6,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=04D361">
 </p>
 
-# :camera_flash: Screenshots
+<h1 align="center"> :camera_flash: Screenshots </h1>
 
 <div align="center">
   <h2 align="center">Desktop</h2>
