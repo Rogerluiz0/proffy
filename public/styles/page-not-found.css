@@ -1,0 +1,8 @@
+body {
+  background-color: var(--color-primary);
+}
+
+.page-not-found {
+  width: 20rem;
+  height: 20rem;
+}

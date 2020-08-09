@@ -36,6 +36,10 @@
 
 Aplicação web desenvolvida na segunda edição da next level week.
 
+## :bookmark: Layout
+
+Você pode visualizar o layout desse projeto no figam, clicando [aqui](https://www.figma.com/file/fLxRLe94Xs2TjVU5fdcZ6R/Proffy_Web)
+
 ## :scroll: Banco de dados
 
 Caso você queira resetar o banco de dados, basta ir na pasta src/database e excluir o arquivo database.sqlite,
@@ -47,40 +51,41 @@ Este prjeto está em constante evolução
 
 ## :bookmark_tabs: Ideias de implementação
 
-- [ ] Trocar o banco de dados
+- [ ] Adiconar um novo banco de dados
 - [ ] Melhorar a responsividade
 - [ ] Adicinar tela de cadastro concluído
 
 ## :open_file_folder: Estrutura de diretórios
 
 ```
-.github/
-public/
-  assets/
-  pages/
-  scripts/
-  styles/
-    partials/
-  index.html
-src/
-  config/
-    index.js
-  controller/
-    index.js
-  database/
-    createProffy.js
-    database.sqlite
-    db.js
-  utils/
-    format.js
-  app.js
-  routes.js
-  server.js
-.env
-.gitignore
-LICENSE.md
-package.json
-README.md
+|-- .github/
+|-- public/
+  |-- assets/
+  |-- pages/
+  |-- scripts/
+  |-- styles/
+  |-- index.html
+|-- src/
+  |-- config/
+    |-- index.js
+  |-- controllers/
+    |-- index.js
+  |-- database/
+    |-- createProffy.js
+    |-- database.sqlite
+    |-- db.js
+  |-- utils/
+    |-- format.js
+  |-- app.js
+  |-- routes
+    |-- routes.js
+  |-- server.js
+|-- .env
+|-- .gitignore
+|-- LICENSE.md
+|-- package.json
+|-- package-lock.json
+|-- README.md
 ```
 
 ## :arrow_down: Instalação
@@ -88,7 +93,7 @@ README.md
 - `git clone https://github.com/Rogerluiz0/proffy.git`;
 - `cd proffy`;
 - `npm install | yarn install`;
-- `npm run dev | yarn dev`.
+- `npm start | yarn start`.
 
 ## :thinking: Como contribuir
 

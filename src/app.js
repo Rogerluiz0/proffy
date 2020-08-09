@@ -1,6 +1,6 @@
 const path = require( 'path' )
 const nunjucks = require( 'nunjucks' )
-const routes = require( './routes.js' )
+const routes = require( './routes/routes.js' )
 
 const express = require( 'express' )
 const app = express()
@@ -19,5 +19,6 @@ app.get( '/' , routes )
 app.get( '/study' , routes )
 app.get( '/give-classes' , routes )
 app.post( '/save-classes' , routes )
+app.get( '*', routes )
 
 module.exports = app

@@ -85,9 +85,14 @@ async function saveClasses ( req , res ) {
 
 }
 
+function page404 ( req, res ) {   
+  return res.render( 'page404.html' )
+}
+
 module.exports = {
   pageLanding,
   pageStudy,
   pageGiveClasses,
-  saveClasses
+  saveClasses,
+  page404
 }
