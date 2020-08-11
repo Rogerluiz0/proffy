@@ -38,7 +38,7 @@ Aplicação web desenvolvida na segunda edição da next level week.
 
 ## :bookmark: Layout
 
-Você pode visualizar o layout desse projeto no figam, clicando [aqui](https://www.figma.com/file/fLxRLe94Xs2TjVU5fdcZ6R/Proffy_Web)
+Você pode visualizar o layout desse projeto clicando [aqui](https://proffy-roger.herokuapp.com/)
 
 ## :scroll: Banco de dados
 
