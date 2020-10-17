@@ -5,8 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon src/server.js",
-    "start": "node src/server.js",
-    "db": "node src/database/db.js"
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
