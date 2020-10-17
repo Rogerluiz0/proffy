@@ -42,7 +42,7 @@ Você pode visualizar o layout desse projeto clicando [aqui](https://proffy-roge
 
 ## :checkered_flag: Updates
 
-Este prjeto está em constante evolução
+Este projeto está em constante evolução, estou sempre testando novas features nele.
 
 ## :bookmark_tabs: Ideias de implementação
 
