@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ícone do projeto" title="" src=".github/favicon.png" width="" />
+  <img alt="Ícone do projeto" title="" src=".github/logo.svg" width="" />
 </h1>
 
 <p align="center">
@@ -34,16 +34,11 @@
 
 ## :computer: Projeto
 
-Aplicação web desenvolvida na segunda edição da next level week.
+Sistema web para contratação de professores online.
 
 ## :bookmark: Layout
 
 Você pode visualizar o layout desse projeto clicando [aqui](https://proffy-roger.herokuapp.com/)
-
-## :scroll: Banco de dados
-
-Caso você queira resetar o banco de dados, basta ir na pasta src/database e excluir o arquivo database.sqlite,
-e com o terminal aberto execute `npm run db` no root do projeto.
 
 ## :checkered_flag: Updates
 
@@ -51,9 +46,10 @@ Este prjeto está em constante evolução
 
 ## :bookmark_tabs: Ideias de implementação
 
-- [ ] Adiconar um novo banco de dados
-- [ ] Melhorar a responsividade
-- [ ] Adicinar tela de cadastro concluído
+- [ ] Levar a aplicação para a [versão 2.0](https://www.figma.com/file/XITfkZAiMy8W49eaDSBBXl/Proffy-Web-2.0);
+- [ ] Trocar o banco de dados, MongoDB, PostegreSQL;
+- [ ] Melhorar a responsividade;
+- [ ] Refatorar.
 
 ## :open_file_folder: Estrutura de diretórios
 
@@ -67,18 +63,11 @@ Este prjeto está em constante evolução
   |-- index.html
 |-- src/
   |-- config/
-    |-- index.js
   |-- controllers/
-    |-- index.js
   |-- database/
-    |-- createProffy.js
-    |-- database.sqlite
-    |-- db.js
   |-- utils/
-    |-- format.js
   |-- app.js
   |-- routes
-    |-- routes.js
   |-- server.js
 |-- .env
 |-- .gitignore
@@ -92,8 +81,8 @@ Este prjeto está em constante evolução
 
 - `git clone https://github.com/Rogerluiz0/proffy.git`;
 - `cd proffy`;
-- `npm install | yarn install`;
-- `npm start | yarn start`.
+- `npm install `;
+- `npm run dev`.
 
 ## :thinking: Como contribuir
 
