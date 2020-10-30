@@ -74,7 +74,7 @@ This project is constantly evolving, I am always testing new features on it.
 
 ## Installation
 
-- `git clone https://github.com/Rogerluiz0/proffy.git`;
+- `git clone https://github.com/roger3g/proffy.git`;
 - `cd proffy`;
 - `npm install `;
 - `npm run dev`.
