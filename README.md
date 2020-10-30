@@ -18,7 +18,7 @@
   <img src=".github/mobile.svg" alt="Exemplo da interface no mobile" height="600px;">  
 </div>
 
-## Tecnologias
+## Technology
 
 - [x] [Node.js](https://nodejs.org/en/)
 - [x] [Express.js](https://expressjs.com/)
@@ -27,26 +27,26 @@
 - [x] [nunjucks](https://mozilla.github.io/nunjucks/)
 - [x] [sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
-## Projeto
+## Project
 
-Sistema web para contratação de professores online.
+Web system for hiring online teachers.
 
 ## Layout
 
-Você pode visualizar o layout desse projeto clicando [aqui](https://proffy-roger.herokuapp.com/)
+You can view the layout of this project by clicking [here](https://proffy-roger.herokuapp.com/)
 
 ## Updates
 
-Este projeto está em constante evolução, estou sempre testando novas features nele.
+This project is constantly evolving, I am always testing new features on it.
 
-## Ideias de implementação
+## Implementation ideas
 
-- [ ] Levar a aplicação para a [versão 2.0](https://www.figma.com/file/XITfkZAiMy8W49eaDSBBXl/Proffy-Web-2.0);
-- [ ] Trocar o banco de dados, MongoDB, PostegreSQL;
-- [ ] Melhorar a responsividade;
-- [ ] Refatorar.
+- [ ] Take the application to [version 2.0](https://www.figma.com/file/XITfkZAiMy8W49eaDSBBXl/Proffy-Web-2.0);
+- [ ] Exchange the database, MongoDB, PostgreSQL;
+- [ ] Improve responsiveness;
+- [ ] Refactor.
 
-## Estrutura de diretórios
+## Directory structure
 
 ```
 |-- .github/
@@ -72,27 +72,27 @@ Este projeto está em constante evolução, estou sempre testando novas features
 |-- README.md
 ```
 
-## Instalação
+## Installation
 
 - `git clone https://github.com/Rogerluiz0/proffy.git`;
 - `cd proffy`;
 - `npm install `;
 - `npm run dev`.
 
-Requisítos para rodar **localmente**:
+Requirements to run **locally**:
 
-- [ ] [Node.js](https://nodejs.org/en/) ( Obrigatório )
-- [ ] [GIT](https://git-scm.com/) ( Opcional )
+- [ ] [Node.js](https://nodejs.org/en/) ( Required )
+- [ ] [GIT](https://git-scm.com/) ( Optional )
 
-## Como contribuir
+## How to contribute
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+1. Fork this repository;
+2. Create a branch with your feature: **`git checkout -b my-feature`**;
+3. Commit your changes: **`git commit -m 'feat: My new feature'`**;
+4. Push to your branch: **`git push origin my-feature`**.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After the merge of your pull request is done, you can delete your branch.
 
-## Licença
+## License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
