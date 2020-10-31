@@ -61,8 +61,8 @@ This project is constantly evolving, I am always testing new features on it.
   |-- controllers/
   |-- database/
   |-- utils/
+  |-- routes/
   |-- app.js
-  |-- routes
   |-- server.js
 |-- .env
 |-- .gitignore
