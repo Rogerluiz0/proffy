@@ -26,7 +26,6 @@
 - [Updates](#-updates)
 - [Implementation ideas](#-implementation-ideas)
 - [Directory structure](#-directory-structure)
-- [License](#-license)
 - [Installation](#-installation)
 - [How to contribute](#-how-to-contribute)
 - [License](#-license)
