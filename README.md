@@ -18,6 +18,19 @@
   <img src=".github/mobile.svg" alt="Exemplo da interface no mobile" height="600px;">  
 </div>
 
+## 📌 Table of Contents
+
+- [Technology](#-technology)
+- [Project](#-project)
+- [Layout](#-layout)
+- [Updates](#-updates)
+- [Implementation ideas](#-implementation-ideas)
+- [Directory structure](#-directory-structure)
+- [License](#-license)
+- [Installation](#-installation)
+- [How to contribute](#-how-to-contribute)
+- [License](#-license)
+
 ## 🕹 Technology
 
 - [x] [Node.js](https://nodejs.org/en/)
