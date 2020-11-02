@@ -18,7 +18,7 @@
   <img src=".github/mobile.svg" alt="Exemplo da interface no mobile" height="600px;">  
 </div>
 
-## Technology
+## 🕹 Technology
 
 - [x] [Node.js](https://nodejs.org/en/)
 - [x] [Express.js](https://expressjs.com/)
@@ -27,26 +27,26 @@
 - [x] [nunjucks](https://mozilla.github.io/nunjucks/)
 - [x] [sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
-## Project
+## 💻 Project
 
 Web system for hiring online teachers.
 
-## Layout
+## 🔖 Layout
 
 You can view the layout of this project by clicking [here](https://proffy-roger.herokuapp.com/)
 
-## Updates
+## ⬆ Updates
 
 This project is constantly evolving, I am always testing new features on it.
 
-## Implementation ideas
+## 💡 Implementation ideas
 
 - [ ] Take the application to [version 2.0](https://www.figma.com/file/XITfkZAiMy8W49eaDSBBXl/Proffy-Web-2.0);
 - [ ] Exchange the database, MongoDB, PostgreSQL;
 - [ ] Improve responsiveness;
 - [ ] Refactor.
 
-## Directory structure
+## 📂 Directory structure
 
 ```
 |-- .github/
@@ -72,7 +72,7 @@ This project is constantly evolving, I am always testing new features on it.
 |-- README.md
 ```
 
-## Installation
+## ⬇ Installation
 
 - `git clone https://github.com/roger3g/proffy.git`;
 - `cd proffy`;
@@ -84,7 +84,7 @@ Requirements to run **locally**:
 - [ ] [Node.js](https://nodejs.org/en/) ( Required )
 - [ ] [GIT](https://git-scm.com/) ( Optional )
 
-## How to contribute
+## 🤔 How to contribute
 
 1. Fork this repository;
 2. Create a branch with your feature: **`git checkout -b my-feature`**;
@@ -93,6 +93,6 @@ Requirements to run **locally**:
 
 After the merge of your pull request is done, you can delete your branch.
 
-## License
+## 📕 License
 
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
