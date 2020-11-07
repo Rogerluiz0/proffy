@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=4&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&labelColor=04D361" style="display: inline;">
+  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=4&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=webg&color=8257E5&labelColor=04D361" style="display: inline;">
 </p>
 
 ## 📷 Screenshots
