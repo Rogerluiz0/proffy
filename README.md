@@ -6,10 +6,7 @@
   <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=4&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=8257E5&labelColor=04D361" style="display: inline;">
 </p>
 
-## 📷 Screenshots
-
 <div align="center">
-  <h2 align="center">🖥 Desktop</h2>
   <img src=".github/desktop.svg" alt="Exemplo da interface no desktop" style="width: 100%;">  
 </div>
 
