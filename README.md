@@ -24,12 +24,20 @@
 
 ## 🕹 Technology
 
-- [x] [Node.js](https://nodejs.org/en/)
-- [x] [Express.js](https://expressjs.com/)
-- [x] [Nodemon](https://nodemon.io/)
-- [x] [dotenv](https://www.npmjs.com/package/dotenv)
-- [x] [nunjucks](https://mozilla.github.io/nunjucks/)
-- [x] [sqlite-async](https://www.npmjs.com/package/sqlite-async)
+- **Front-End**
+  - [HTML](https://nodejs.org/en/)
+  - [CSS](https://nodejs.org/en/)
+  - [Javascript](https://nodejs.org/en/)
+
+- **Back-End**
+  - [Node.js](https://nodejs.org/en/)
+  - [Express.js](https://expressjs.com/)
+  - [Nodemon](https://nodemon.io/)
+  - [dotenv](https://www.npmjs.com/package/dotenv)
+  - [nunjucks](https://mozilla.github.io/nunjucks/)
+  
+- **Database**
+  - [sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
 ## 💻 Project
 
