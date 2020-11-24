@@ -22,7 +22,7 @@
 - [How to contribute](#-how-to-contribute)
 - [License](#-license)
 
-## 🕹 Technology
+## 🛠 Technology
 
 - **Front-End**
   - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
