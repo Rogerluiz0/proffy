@@ -91,7 +91,7 @@ $ npm install
 # Run the application in development mode
 $ npm run server
 
-# O servidor inciará na porta:80 - acesse http://localhost:80 
+# The server will start at port: 80 - go to http://localhost:80
 ```
 
 Requirements to run **locally**:
