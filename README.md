@@ -25,9 +25,9 @@
 ## 🕹 Technology
 
 - **Front-End**
-  - [HTML](https://nodejs.org/en/)
-  - [CSS](https://nodejs.org/en/)
-  - [Javascript](https://nodejs.org/en/)
+  - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
 
 - **Back-End**
   - [Node.js](https://nodejs.org/en/)
