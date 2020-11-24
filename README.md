@@ -97,7 +97,7 @@ $ cd proffy
 $ npm install
 
 # Run the application in development mode
-$ npm run server
+$ npm run dev
 
 # The server will start at port: 80 - go to http://localhost:80
 ```
