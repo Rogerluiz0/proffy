@@ -79,21 +79,19 @@ This project is constantly evolving, I am always testing new features on it.
 ## ⬇ Installation
 
 ```bash
-
-# Clone este repositório
+# Clone this repository
 $ git clone git clone https://github.com/roger3g/proffy.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in the cmd/terminal
 $ cd proffy
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run server
 
 # O servidor inciará na porta:80 - acesse http://localhost:80 
-
 ```
 
 Requirements to run **locally**:
