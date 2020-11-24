@@ -80,7 +80,7 @@ This project is constantly evolving, I am always testing new features on it.
 
 ```bash
 # Clone this repository
-$ git clone git clone https://github.com/roger3g/proffy.git
+$ git clone https://github.com/roger3g/proffy.git
 
 # Access the project folder in the cmd/terminal
 $ cd proffy
