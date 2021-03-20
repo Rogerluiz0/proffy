@@ -1,6 +1,6 @@
 .select-block label, .input-block label, .textarea-block label {
   font-size: 1.4rem;
-  color: var(--color-text-complement);
+  color: $color-text-complement;
 }
 
 .input-block input, .select-block select, .textarea-block textarea {
@@ -8,8 +8,8 @@
   height: 5.6rem;
   margin-top: 0.8rem;
   border-radius: 0.8rem;
-  background-color: var(--color-input-background);
-  border: 1px solid var(--color-line-in-white);
+  background-color: $color-input-background;
+  border: 1px solid $color-line-in-white;
   outline: 0;
   padding:  0 1.6rem;
   font: 1.6rem Archivo;
@@ -29,7 +29,7 @@
   content: "";
   width: calc(100% - 3.2rem);
   height: 2px;
-  background-color: var(--color-primary-light);
+  background-color: $color-primary-light;
   position: absolute;
   left: 1.6rem;
   bottom: 0px;
@@ -38,5 +38,5 @@
 label small {
   font-size: 1.2rem;
   padding-left: 1.3rem;
-  color: var(--color-small-info);
+  color: $color-small-info;
 }

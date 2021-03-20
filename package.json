@@ -1,20 +1,29 @@
 {
   "name": "proffy",
   "version": "1.0.0",
-  "description": "Proffy, sua plataforma de estudos online",
-  "main": "src/server.js",
+  "description": "Your online study platform",
+  "main": "src/application.js",
   "scripts": {
-    "dev": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/application.js",
+    "dev:server": "nodemon src/application.js",
+    "dev:standard": "npx standard",
+    "dev:fix-standard": "npx standard --fix",
+    "dev:sass": "sass --watch public/styles/scss/index.scss:public/styles/css/index.css --style compressed"
   },
   "repository": {
     "type": "git",
     "url": ""
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "javascript",
+    "nunjucks",
+    "sqlite",
+    "sass"
+  ],
   "author": {
     "name": "Roger Luiz",
-    "email": "Rogerluiz009@gmail.com",
+    "email": "rogerluiz010@gmail.com",
     "url": "https://github.com/roger3g"
   },
   "license": "MIT",
@@ -22,9 +31,10 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
-    "sqlite-async": "^1.1.0"
+    "sqlite-async": "^1.1.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.6",
+    "standard": "^16.0.3"
   }
 }

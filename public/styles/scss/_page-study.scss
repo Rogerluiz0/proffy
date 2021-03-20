@@ -1,0 +1,134 @@
+#page-study {
+  #container {
+    width: 100vw;
+    height: 100vh;
+  }
+
+  #search-teachers {
+    margin-top: 3.2rem;
+  }
+
+  #search-teachers label {
+    color: $color-text-in-primary;
+  }
+
+  #search-teachers .select-block {
+    margin-bottom: 1.4rem;
+  }
+
+  #search-teachers button {
+    width: 100%;
+    height: 5.6rem;
+    background-color: $color-secondary;
+    color: $color-button-text;
+    border: 0;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    font: 700 1.6rem Archivo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s;
+    margin-top: 3.2rem;
+  }
+
+  #search-teachers button:hover {
+    background-color: $color-secondary-dark;
+  }
+
+  main {
+    margin: 3.2rem auto;
+    width: 90%;
+  }
+
+  .teacher-item {
+    background-color: $color-box-base;
+    border: 1px solid $color-line-in-white;
+    border-radius: 0.8rem;
+    margin-top: 2.4rem;
+  }
+
+  .teacher-item header {
+    padding-right: 3.2rem 2rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .teacher-item header img {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    margin: 1rem;
+  }
+
+  .teacher-item header div {
+    margin-left: 2.4rem;
+  }
+
+  .teacher-item header div strong {
+    font: 700 2.4rem Archivo;
+    display: block;
+    color: $color-text-title;
+  }
+
+  .teacher-item header div span {
+    font-size: 1.6rem;
+    display: block;
+    margin-top: 0.4rem;
+  }
+
+  .teacher-item > p {
+    padding: 0 2rem;
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+  }
+
+  .teacher-item footer {
+    padding: 3.2rem 2rem;
+    background-color: $color-box-footer;
+    border-top: 1px solid $color-line-in-white;
+    margin-top: 3.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .teacher-item footer p {
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    color: $color-text-complement;
+  }
+
+  .teacher-item footer p strong {
+    font-size: 1.6rem;
+    color: $color-primary;
+    display: block;
+  }
+
+  .teacher-item footer .button {
+    width: 20rem;
+    height: 5.6rem;
+    background-color: $color-secondary;
+    color: $color-button-text;
+    border: 0;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    font: 700 1.4rem Archivo;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-decoration: none;
+    margin-left: 1.6rem;
+    transition: background 0.2s;
+  }
+
+  .teacher-item footer .button:hover {
+    background-color: $color-secondary-dark;
+  }
+
+  main .no-results {
+    max-width: 30rem;
+    margin: 12rem auto;
+    text-align: center;
+  }
+}
