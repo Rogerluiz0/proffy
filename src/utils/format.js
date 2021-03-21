@@ -31,9 +31,23 @@ function convertHoursToMinutes (time) {
   return Number((hour * 60) + minutes)
 }
 
+function formatCurrency (value) {
+  value = String(value).replace(/\D/g, '')
+  value = Number(value) / 100
+  value = value.toLocaleString('pt-br', {style: 'currency', currency: 'BRL'})
+  return value
+}
+
+function formatAmount (value) {
+  value = Number(value) * 100
+  return Math.round(value)
+}
+
 module.exports = {
   subjects,
   weekdays,
   getSubject,
-  convertHoursToMinutes
+  convertHoursToMinutes,
+  formatCurrency,
+  formatAmount
 }

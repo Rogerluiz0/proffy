@@ -1,5 +1,5 @@
 const database = require('./../database/db.js')
-const { convertHoursToMinutes } = require('./../utils/format.js')
+const { convertHoursToMinutes, formatCurrency , formatAmount } = require('./../utils/format.js')
 
 async function saveClasses (req, res) {
   const createProffy = require('./../database/createProffy.js')
@@ -12,8 +12,8 @@ async function saveClasses (req, res) {
   }
 
   const classValue = {
-    subject: req.body.subject,
-    cost: req.body.cost
+    subject: String(req.body.subject),
+    cost: String(formatCurrency(formatAmount(req.body.cost)))
   }
 
   const classScheduleValues = req.body.weekday.map((weekday, index) => {
