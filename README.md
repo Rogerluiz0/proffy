@@ -90,8 +90,11 @@ $ cd proffy
 # Install the dependencies
 $ npm install
 
+# Run the sass (It is important that you have sass installed)
+$ npm run dev:sass
+
 # Run the application in development mode
-$ npm run dev
+$ npm run dev:server
 
 # The port that the server will open will be shown on the console
 ```

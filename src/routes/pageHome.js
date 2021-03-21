@@ -1,4 +1,4 @@
-function pageHome(req, res) {
+function pageHome (req, res) {
   return res.render('index.html')
 }
 

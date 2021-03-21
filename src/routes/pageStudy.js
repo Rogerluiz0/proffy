@@ -1,11 +1,11 @@
 const database = require('./../database/db.js')
-const {subjects, weekdays, getSubject, convertHoursToMinutes} = require('./../utils/format.js')
+const { subjects, weekdays, getSubject, convertHoursToMinutes } = require('./../utils/format.js')
 
 async function pageStudy (req, res) {
   const filters = req.query
 
   if (!filters.subject || !filters.weekday || !filters.time) {
-    return res.render('study.html', {filters, subjects, weekdays})
+    return res.render('study.html', { filters, subjects, weekdays })
   }
 
   const timeToMinutes = convertHoursToMinutes(filters.time)
@@ -33,8 +33,7 @@ async function pageStudy (req, res) {
       proffy.subject = getSubject(proffy.subject)
     })
 
-    return res.render('study.html', {proffys, subjects, filters, weekdays})
-
+    return res.render('study.html', { proffys, subjects, filters, weekdays })
   } catch (error) {
     console.log(error)
   }

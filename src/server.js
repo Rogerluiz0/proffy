@@ -9,7 +9,7 @@ nunjucks.configure(join(__dirname, '../public/pages'), {
   noCache: true
 })
 
-server.use(express.urlencoded({extended: true}))
+server.use(express.urlencoded({ extended: true }))
 server.use(express.static(join(__dirname, '../public')))
 
 const pageHome = require('./routes/pageHome.js')
