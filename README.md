@@ -61,19 +61,17 @@ This project is constantly evolving, I am always testing new features on it.
   |-- pages/
   |-- scripts/
   |-- styles/
-  |-- index.html
 |-- src/
   |-- config/
-  |-- controllers/
   |-- database/
   |-- utils/
   |-- routes/
-  |-- app.js
+  |-- application.js
   |-- server.js
-|-- .env
 |-- .gitignore
 |-- LICENSE.md
 |-- package.json
+|-- nodemon.json
 |-- package-lock.json
 |-- README.md
 ```
