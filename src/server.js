@@ -1,8 +1,12 @@
+require('dotenv').config()
+
 const express = require('express')
 const server = express()
 
 const { join } = require('path')
 const nunjucks = require('nunjucks')
+
+const port = process.env.PORT || 3333
 
 nunjucks.configure(join(__dirname, '../public/pages'), {
   express: server,
@@ -26,4 +30,10 @@ server.use((req, res) => {
   return res.status(404).render('page-not-found.html')
 })
 
-module.exports = server
+server.listen(port, error => {
+  const message = error
+    ? 'Error when running the server'
+    : `Server running on http://localhost:${port}`
+
+  return console.log(message)
+})
