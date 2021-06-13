@@ -1,9 +1,13 @@
-.select-block label, .input-block label, .textarea-block label {
+.select-block label, 
+.input-block label, 
+.textarea-block label {
   font-size: 1.4rem;
   color: $color-text-complement;
 }
 
-.input-block input, .select-block select, .textarea-block textarea {
+.input-block input, 
+.select-block select, 
+.textarea-block textarea {
   width: 100%;
   height: 5.6rem;
   margin-top: 0.8rem;
@@ -25,7 +29,8 @@
   position: relative;
 }
 
-.input-block:focus-within::after, .textarea-block:focus-within::after {
+.input-block:focus-within::after, 
+.textarea-block:focus-within::after {
   content: "";
   width: calc(100% - 3.2rem);
   height: 2px;
