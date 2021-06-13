@@ -90,7 +90,7 @@ $ cd proffy
 # Install the dependencies
 $ npm install
 
-# Run the sass (It is important that you have sass installed)
+# Run the sass
 $ npm run dev:sass
 
 # Run the application in development mode
