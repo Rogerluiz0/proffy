@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=3&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/stars/roger3g/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/issues/roger3g/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/forks/roger3g/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/last-commit/roger3g/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/repo-size/roger3g/proffy?color=8257E5&labelColor=04D361" style="display: inline;">
+  <img src="https://img.shields.io/static/v1?label=author&message=abantes&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=3&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/stars/abantes/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/issues/abantes/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/forks/abantes/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/last-commit/abantes/proffy?color=8257E5&labelColor=04D361" style="display: inline;"> <img src="https://img.shields.io/github/repo-size/abantes/proffy?color=8257E5&labelColor=04D361" style="display: inline;">
 </p>
 
 <div align="center">
@@ -82,7 +82,7 @@ You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/) i
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/roger3g/proffy.git
+$ git clone https://github.com/abantes/proffy.git
 
 # Access the project folder in the cmd/terminal
 $ cd proffy
@@ -108,7 +108,7 @@ $ npm run dev:server
 
 After the merge of your pull request is done, you can delete your branch.
 
-You can report a bug [here](https://github.com/roger3g/proffy/issues).
+You can report a bug [here](https://github.com/abantes/proffy/issues).
 
 ## 📝 License
 
